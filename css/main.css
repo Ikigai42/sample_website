@@ -4,3 +4,41 @@
 .nav-spacing {
   margin-left: 10px;
 }
+
+.image-link {
+  text-decoration: none;
+}
+
+.moby-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.sperm-whale {
+  display: block;
+  margin: 0 auto;
+}
+
+.book-container {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #ebebeb;
+}
+
+.moby-dick {
+  float: left;
+  margin: 0 40px 0 0;
+}
+
+.book-info {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.book-quote {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
